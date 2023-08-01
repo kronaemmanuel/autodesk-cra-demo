@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@bryntum/schedulerpro": "npm:@bryntum/schedulerpro-trial@^5.5.0",
-    "@bryntum/schedulerpro-react": "^5.5.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "@bryntum/schedulerpro": "5.5.0",
+    "@bryntum/schedulerpro-react": "5.5.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
     "react-scripts": "^4.0.3"
   },
   "scripts": {
